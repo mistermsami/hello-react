@@ -1,0 +1,18 @@
+.countrydetails{
+    padding: 40px;
+}
+.card{
+    padding: 20px;
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    width: 400px;
+}
+.card-header{
+    height: 200px;
+    width: 100%;
+}
+.card-header img{
+    width: 100%;
+    height: 100%;
+}
